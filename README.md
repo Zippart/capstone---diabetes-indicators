@@ -27,6 +27,8 @@ Most of the participants didn’t have diabetes. Comparing the diabetes status a
 
 Unfortunately, the models were good at predicting when someone doesn’t have diabetes, but poor at predicting prediabetes or diabetes. Ultimately the random forest had the best results out of the three learning models for predicting positive results with a 63% precision rate and an 11% recall rate. 
 
+![decision_tree_poster](https://github.com/Zippart/capstone---diabetes-indicators/assets/46052439/050ae21f-824b-40e3-a767-de884f291ddf)
+
 ## 6.	Recommendations
 The models confirmed that high blood pressure, age, BMI, and high cholesterol were all important factors correlated with prediabetes or diabetes. With this data, other more complicated machine learning models can be updated to include this dataset. Datasets like these can be further proof and evidence for public health initiatives to collaborate with the government for PSAs or for real time clinical decision support for users of the company’s technology.
 
