@@ -1,4 +1,4 @@
-"capstone diabetes" is the only relevant file with code, the rest are outdated
+### Disclaimer: "capstone diabetes" is the only relevant file with code, the rest are outdated
 
 In 2021, 38.4 million Americans, or 11.6% of the population, had diabetes. 2 million Americans have type 1 diabetes, including about 304,000 children and adolescents. The following dataset is from a survey where participants answered various questions about their demographics and health. The end goal of this project was to create predictive models based on the given info.
 
@@ -25,6 +25,6 @@ The models confirmed that high blood pressure, age, BMI, and high cholesterol we
 ## 7.	Future Improvements
 I want to try out different models and different hyperparameter tuning in the future. I might also increase the scope of the project by finding other diabetes data to predictive model and see how the datasets compare with their features and usefulness in model building. I will soon redo the models removing the general health and mental health features, as those were qualitative in nature instead of quantitative.
 
-8.	Credits
+## 8.	Credits
 
 Thank you to everyone in the Springboard Slack and my mentor that helped me navigate this project!
