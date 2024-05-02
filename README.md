@@ -18,6 +18,11 @@ This process was very straight forward. There were no null values and the data w
 ## 4.	EDA
 Most of the participants didn’t have diabetes. Comparing the diabetes status and common health related variables like blood pressure and BMI showed expected correlation. 
 
+<img width="269" alt="image" src="https://github.com/Zippart/capstone---diabetes-indicators/assets/46052439/ca5eb4d6-18ab-4901-be0b-28c84ea2abe5">
+
+<img width="346" alt="image" src="https://github.com/Zippart/capstone---diabetes-indicators/assets/46052439/9dd548fa-6cd3-434b-ad70-15b239ca93a7">
+
+
 ## 5.	Machine Learning
 
 Unfortunately, the models were good at predicting when someone doesn’t have diabetes, but poor at predicting prediabetes or diabetes. Ultimately the random forest had the best results out of the three learning models for predicting positive results with a 63% precision rate and an 11% recall rate. 
