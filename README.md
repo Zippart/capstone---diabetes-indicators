@@ -5,6 +5,9 @@ In 2021, 38.4 million Americans, or 11.6% of the population, had diabetes. 2 mil
 ## 1.	Data
 The CDC has this info, but I originally found it from the UC Irvine Machine Learning repository. The data was pre processed with age brackets.
 
+https://archive.ics.uci.edu/dataset/891/cdc+diabetes+health+indicators
+For more info on CDC Survey Data, please check: https://www.cdc.gov/brfss/annual_data/annual_2014.html
+
 ## 2.	Method
 I tried three different types of models: random forest, decision tree, and logistic regression.
 
