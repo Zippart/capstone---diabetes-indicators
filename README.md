@@ -25,7 +25,7 @@ Most of the participants didn’t have diabetes. Comparing the diabetes status a
 
 ## 5.	Machine Learning
 
-Unfortunately, the models were good at predicting when someone doesn’t have diabetes, but poor at predicting prediabetes or diabetes. Ultimately the random forest had the best results out of the three learning models for predicting positive results with a 63% precision rate and an 11% recall rate. 
+Unfortunately, the models were good at predicting when someone doesn’t have diabetes, but poor at predicting prediabetes or diabetes. Ultimately the random forest had the best results out of the three learning models for predicting positive results with a 63% precision rate and an 11% recall rate. See the model metrics file for more details.
 
 ![decision_tree_poster](https://github.com/Zippart/capstone---diabetes-indicators/assets/46052439/050ae21f-824b-40e3-a767-de884f291ddf)
 
